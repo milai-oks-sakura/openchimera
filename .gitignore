@@ -30,8 +30,18 @@
 *.exe
 *.out
 *.app
+*.bm
+*.bm.*
 
 # Python
 __pycache__
 python_log
 
+# IDEA
+.vscode
+.workspace
+.idea
+
+# CMake
+build
+build-*
